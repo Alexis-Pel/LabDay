@@ -8,9 +8,9 @@
 
 ## Github
 - Lien : https://github.com/Alexis-Pel/LabDay
-- Branches : `4`
-- Tags : `4`
-- Version : `0.11.1`
+- Branches : `2`
+- Tags : `6`
+- Version : `0.13.0`
 
 ## Description
 Base Readme
